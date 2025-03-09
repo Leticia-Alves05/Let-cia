@@ -5,5 +5,7 @@ inicio = int(input(" Digite um número: "))
 final = int(input(" Digite um número: "))
 passo = int(input(" Digite um número: "))
 
-for i in range(inicio,final+1,passo):
+ajuste = -1 if inicio > final else 1
+
+for i in range(inicio,final + ajuste,passo):
     print(i)
