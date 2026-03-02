@@ -1,4 +1,4 @@
-# 👩‍💻 Letícia Alves - Estudos em Desenvolvimento
+# Letícia Alves - Estudos em Desenvolvimento
 
 ## Sobre mim
 Profissional em transição de carreira para Engenharia de Software.
